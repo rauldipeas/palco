@@ -1,0 +1,39 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: false
+windowExpanding: normal
+windowSize: 800px,720px
+windowPlacement: center
+
+strings:
+    productName:         Palco GNU/Linux
+    shortProductName:    Palco
+    version:             13
+    shortVersion:        13
+    versionedName:       Palco 13
+    shortVersionedName:  Palco 13
+    bootloaderEntryName: Palco
+    productUrl:          https://palco.pages.dev
+    supportUrl:          https://palco.pages.dev/support
+    knownIssuesUrl:      https://palco.pages.dev/feedback
+    releaseNotesUrl:     https://palco.pages.dev/releases/trixie/releasenotes
+    donateUrl:           https://palco.pages.dev
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         ""
+    productIcon:         ""
+    productWelcome:      ""
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#202024"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#fbfbfb"
+   SidebarBackgroundCurrent: "#3584e4"
+
+slideshowAPI: 2

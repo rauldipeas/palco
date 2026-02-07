@@ -1,0 +1,2 @@
+cp "$PWD"/cubic.conf "$HOME"/Cubic/Palco/
+bash <(curl -sSL https://github.com/rauldipeas/palco/raw/main/build.sh)

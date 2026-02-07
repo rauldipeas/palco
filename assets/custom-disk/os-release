@@ -1,0 +1,10 @@
+PRETTY_NAME="Palco GNU/Linux"
+NAME="Palco GNU/Linux"
+VERSION_ID="13"
+VERSION="13 (trixie)"
+VERSION_CODENAME=trixie
+DEBIAN_VERSION_FULL=13.3
+ID=debian
+HOME_URL="https://palco.pages.dev"
+SUPPORT_URL="https://palco.pages.dev/support"
+BUG_REPORT_URL="https://palco.pages.dev/feedback"
